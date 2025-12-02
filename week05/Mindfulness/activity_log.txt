@@ -1,3 +1,0 @@
-2025-12-02 07:53:30Z | Breathing Activity | 2 sec
-2025-12-02 07:54:01Z | Reflecting Activity | 5 sec
-2025-12-02 07:54:27Z | Listing Activity | 2 sec
