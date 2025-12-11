@@ -7,7 +7,7 @@ class Program
     {
         List<Activity> activities = new List<Activity>();
 
-        // Crear una actividad de cada tipo
+        // Create one activity of each type
         Running running = new Running("03 Nov 2022", 30, 4.8);
         Cycling cycling = new Cycling("03 Nov 2022", 45, 20.0);
         Swimming swimming = new Swimming("03 Nov 2022", 25, 40);
@@ -16,7 +16,7 @@ class Program
         activities.Add(cycling);
         activities.Add(swimming);
 
-        // Mostrar los summaries
+        // Show summaries
         foreach (Activity activity in activities)
         {
             Console.WriteLine(activity.GetSummary());

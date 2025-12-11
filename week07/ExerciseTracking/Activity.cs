@@ -21,7 +21,7 @@ public abstract class Activity
         return _minutes;
     }
 
-    // Métodos abstractos que se van a sobrescribir
+    // Abstract methods that will be overwritten
     public abstract double GetDistance(); 
     public abstract double GetSpeed();
     public abstract double GetPace();
